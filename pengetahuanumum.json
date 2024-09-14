@@ -1,0 +1,507 @@
+[
+  {
+    "index": 0,
+    "soal": "Planet apa yang ketiga dari matahari dan merupakan tempat tinggal manusia?",
+    "jawaban": "Bumi"
+  },
+  {
+    "index": 1,
+    "soal": "Siapa ilmuwan yang menemukan hukum gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "index": 2,
+    "soal": "Apa bahasa yang paling banyak digunakan di dunia dan berasal dari negara dengan populasi terbesar?",
+    "jawaban": "Mandarin"
+  },
+  {
+    "index": 3,
+    "soal": "Benua terbesar di dunia yang menjadi tempat lahirnya banyak peradaban besar adalah?",
+    "jawaban": "Asia"
+  },
+  {
+    "index": 4,
+    "soal": "Proses apa yang digunakan tumbuhan untuk membuat makanan dengan bantuan sinar matahari?",
+    "jawaban": "Fotosintesis"
+  },
+  {
+    "index": 5,
+    "soal": "Samudra terbesar di dunia yang terletak di antara benua Amerika dan Asia adalah?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "index": 6,
+    "soal": "Zat apa yang terdiri dari proton, neutron, dan elektron, dan merupakan dasar dari semua benda di alam semesta?",
+    "jawaban": "Atom"
+  },
+  {
+    "index": 7,
+    "soal": "Negara apa yang terkenal dengan Menara Eiffel dan dianggap sebagai pusat mode dunia?",
+    "jawaban": "Prancis"
+  },
+  {
+    "index": 8,
+    "soal": "Alat yang digunakan untuk mengukur suhu dan ditemukan oleh Galileo Galilei disebut apa?",
+    "jawaban": "Termometer"
+  },
+  {
+    "index": 9,
+    "soal": "Bagian tubuh manusia yang terluas dan berfungsi melindungi organ-organ di dalamnya disebut apa?",
+    "jawaban": "Kulit"
+  },
+  {
+    "index": 10,
+    "soal": "Siapa penulis novel terkenal 'Harry Potter'?",
+    "jawaban": "J.K. Rowling"
+  },
+  {
+    "index": 11,
+    "soal": "Gunung tertinggi di dunia yang terletak di Himalaya adalah?",
+    "jawaban": "Gunung Everest"
+  },
+  {
+    "index": 12,
+    "soal": "Negara apa yang dikenal sebagai tempat asal dari makanan sushi?",
+    "jawaban": "Jepang"
+  },
+  {
+    "index": 13,
+    "soal": "Apa unit dasar untuk mengukur massa dalam Sistem Internasional (SI)?",
+    "jawaban": "Kilogram"
+  },
+  {
+    "index": 14,
+    "soal": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell"
+  },
+  {
+    "index": 15,
+    "soal": "Apa ibu kota dari negara Italia?",
+    "jawaban": "Roma"
+  },
+  {
+    "index": 16,
+    "soal": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil"
+  },
+  {
+    "index": 17,
+    "soal": "Kapan Perang Dunia II berakhir?",
+    "jawaban": "1945"
+  },
+  {
+    "index": 18,
+    "soal": "Apa satelit alami dari Bumi?",
+    "jawaban": "Bulan"
+  },
+  {
+    "index": 19,
+    "soal": "Siapa presiden pertama Amerika Serikat?",
+    "jawaban": "George Washington"
+  },
+  {
+    "index": 20,
+    "soal": "Elemen kimia dengan simbol 'O' adalah?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "index": 21,
+    "soal": "Apa yang digunakan oleh lebah untuk membuat madu?",
+    "jawaban": "Nektar"
+  },
+  {
+    "index": 22,
+    "soal": "Nama kota terbesar di Australia adalah?",
+    "jawaban": "Sydney"
+  },
+  {
+    "index": 23,
+    "soal": "Apa yang menjadi sumber energi utama bagi kehidupan di Bumi?",
+    "jawaban": "Matahari"
+  },
+  {
+    "index": 24,
+    "soal": "Negara mana yang dikenal sebagai tempat lahirnya sepak bola?",
+    "jawaban": "Inggris"
+  },
+  {
+    "index": 25,
+    "soal": "Apa nama alat yang digunakan untuk mengukur tekanan udara?",
+    "jawaban": "Barometer"
+  },
+  {
+    "index": 26,
+    "soal": "Apa nama benua yang berada di Kutub Selatan?",
+    "jawaban": "Antartika"
+  },
+  {
+    "index": 27,
+    "soal": "Apa mata uang resmi di Jepang?",
+    "jawaban": "Yen"
+  },
+  {
+    "index": 28,
+    "soal": "Siapa yang pertama kali menginjakkan kaki di bulan?",
+    "jawaban": "Neil Armstrong"
+  },
+  {
+    "index": 29,
+    "soal": "Siapa ilmuwan yang mengembangkan teori relativitas?",
+    "jawaban": "Albert Einstein"
+  },
+  {
+    "index": 30,
+    "soal": "Apa ibu kota dari negara Rusia?",
+    "jawaban": "Moskow"
+  },
+  {
+    "index": 31,
+    "soal": "Siapa penulis buku 'The Theory of Everything' yang juga ahli astrofisika terkenal?",
+    "jawaban": "Stephen Hawking"
+  },
+  {
+    "index": 32,
+    "soal": "Hewan mamalia terbesar di dunia adalah?",
+    "jawaban": "Paus Biru"
+  },
+  {
+    "index": 33,
+    "soal": "Apa negara dengan populasi terbesar di dunia?",
+    "jawaban": "Cina"
+  },
+  {
+    "index": 34,
+    "soal": "Apa nama alat musik tradisional dari Indonesia yang terbuat dari bambu?",
+    "jawaban": "Angklung"
+  },
+  {
+    "index": 35,
+    "soal": "Apa nama candi terbesar di Indonesia yang juga merupakan salah satu dari keajaiban dunia?",
+    "jawaban": "Borobudur"
+  },
+  {
+    "index": 36,
+    "soal": "Bahan bakar fosil yang paling umum digunakan di dunia adalah?",
+    "jawaban": "Minyak"
+  },
+  {
+    "index": 37,
+    "soal": "Apa nama negara yang dikenal sebagai 'Negeri Matahari Terbit'?",
+    "jawaban": "Jepang"
+  },
+  {
+    "index": 38,
+    "soal": "Siapa penemu mesin uap yang memulai Revolusi Industri?",
+    "jawaban": "James Watt"
+  },
+  {
+    "index": 39,
+    "soal": "Apa nama zat dalam darah yang membawa oksigen ke seluruh tubuh?",
+    "jawaban": "Hemoglobin"
+  },
+  {
+    "index": 40,
+    "soal": "Planet terbesar di tata surya kita adalah?",
+    "jawaban": "Jupiter"
+  },
+  {
+    "index": 41,
+    "soal": "Di negara mana terletak Tembok Besar?",
+    "jawaban": "Cina"
+  },
+  {
+    "index": 42,
+    "soal": "Apa nama untuk perubahan dari wujud cair menjadi gas?",
+    "jawaban": "Penguapan"
+  },
+  {
+    "index": 43,
+    "soal": "Satuan untuk mengukur energi dalam sistem internasional adalah?",
+    "jawaban": "Joule"
+  },
+  {
+    "index": 44,
+    "soal": "Apa nama lautan yang paling dalam di dunia?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "index": 45,
+    "soal": "Apa ibu kota dari Brasil?",
+    "jawaban": "Brasilia"
+  },
+  {
+    "index": 46,
+    "soal": "Siapa yang dikenal sebagai penemu lampu pijar?",
+    "jawaban": "Thomas Edison"
+  },
+  {
+    "index": 47,
+    "soal": "Negara manakah yang memiliki Menara Pisa yang miring?",
+    "jawaban": "Italia"
+  },
+  {
+    "index": 48,
+    "soal": "Apa nama proses di mana tumbuhan hijau menghasilkan oksigen?",
+    "jawaban": "Fotosintesis"
+  },
+  {
+    "index": 49,
+    "soal": "Siapa penulis novel terkenal 'Don Quixote'?",
+    "jawaban": "Miguel de Cervantes"
+  },
+  {
+    "index": 50,
+    "soal": "Apa nama alat yang digunakan untuk mengukur kecepatan angin?",
+    "jawaban": "Anemometer"
+  }
+  {
+    "index": 51,
+    "soal": "Siapa yang disebut sebagai Bapak Pendidikan Indonesia?",
+    "jawaban": "Ki Hajar Dewantara"
+  },
+  {
+    "index": 52,
+    "soal": "Apa ibu kota dari negara Indonesia?",
+    "jawaban": "Jakarta"
+  },
+  {
+    "index": 53,
+    "soal": "Sebutkan tiga negara yang ada di Asia Tenggara!",
+    "jawaban": "Indonesia, Malaysia, Thailand"
+  },
+  {
+    "index": 54,
+    "soal": "Berapa jumlah provinsi di Indonesia?",
+    "jawaban": "38"
+  },
+  {
+    "index": 55,
+    "soal": "Siapa presiden pertama Republik Indonesia?",
+    "jawaban": "Ir. Soekarno"
+  },
+  {
+    "index": 56,
+    "soal": "Apa lambang negara Indonesia?",
+    "jawaban": "Garuda Pancasila"
+  },
+  {
+    "index": 57,
+    "soal": "Siapa pahlawan wanita yang memperjuangkan emansipasi di Indonesia?",
+    "jawaban": "R.A. Kartini"
+  },
+  {
+    "index": 58,
+    "soal": "Sebutkan alat musik tradisional dari Jawa Barat!",
+    "jawaban": "Angklung"
+  },
+  {
+    "index": 59,
+    "soal": "Apa ibukota dari Provinsi Jawa Timur?",
+    "jawaban": "Surabaya"
+  },
+  {
+    "index": 60,
+    "soal": "Gunung tertinggi di Indonesia terletak di Papua, apa nama gunung tersebut?",
+    "jawaban": "Puncak Jaya"
+  },
+  {
+    "index": 61,
+    "soal": "Apa nama presiden Amerika Serikat yang terkenal dengan pidato 'I Have a Dream' tentang kesetaraan hak?",
+    "jawaban": "Martin Luther King Jr."
+  },
+  {
+    "index": 62,
+    "soal": "Apa zat kimia yang memberikan warna hijau pada daun?",
+    "jawaban": "Klorofil"
+  },
+  {
+    "index": 63,
+    "soal": "Apa nama pulau terbesar di Indonesia?",
+    "jawaban": "Kalimantan"
+  },
+  {
+    "index": 64,
+    "soal": "Siapa yang bertanggung jawab atas proklamasi kemerdekaan Indonesia?",
+    "jawaban": "Ir. Soekarno dan Drs. Mohammad Hatta"
+  },
+  {
+    "index": 65,
+    "soal": "Apa nama ibu kota dari Provinsi Sumatera Utara?",
+    "jawaban": "Medan"
+  },
+  {
+    "index": 66,
+    "soal": "Bagian tubuh manusia yang berfungsi untuk memompa darah ke seluruh tubuh adalah?",
+    "jawaban": "Jantung"
+  },
+  {
+    "index": 67,
+    "soal": "Tulang terpanjang dalam tubuh manusia adalah?",
+    "jawaban": "Tulang paha"
+  },
+  {
+    "index": 68,
+    "soal": "Apa nama sistem persendian yang memungkinkan manusia bergerak?",
+    "jawaban": "Sistem muskuloskeletal"
+  },
+  {
+    "index": 69,
+    "soal": "Teks lagu kebangsaan Indonesia Raya diciptakan oleh siapa?",
+    "jawaban": "WR Supratman"
+  },
+  {
+    "index": 70,
+    "soal": "Apa kepanjangan dari singkatan ASEAN?",
+    "jawaban": "Association of Southeast Asian Nations"
+  },
+  {
+    "index": 71,
+    "soal": "Negara apa yang dikenal sebagai 'Negeri Gajah Putih'?",
+    "jawaban": "Thailand"
+  },
+  {
+    "index": 72,
+    "soal": "Apa nama laut yang memisahkan Pulau Jawa dan Pulau Kalimantan?",
+    "jawaban": "Laut Jawa"
+  },
+  {
+    "index": 73,
+    "soal": "Berapa sisi yang dimiliki oleh segi delapan?",
+    "jawaban": "8"
+  },
+  {
+    "index": 74,
+    "soal": "Apa nama proses perubahan dari cair ke padat?",
+    "jawaban": "Membeku"
+  },
+  {
+    "index": 75,
+    "soal": "Siapa presiden Amerika Serikat saat ini?",
+    "jawaban": "Joe Biden"
+  },
+  {
+    "index": 76,
+    "soal": "Apa ibu kota dari negara Jepang?",
+    "jawaban": "Tokyo"
+  },
+  {
+    "index": 77,
+    "soal": "Apa nama alat untuk mengukur massa benda?",
+    "jawaban": "Timbangan"
+  },
+  {
+    "index": 78,
+    "soal": "Apa nama alat optik yang digunakan untuk melihat benda-benda yang sangat kecil?",
+    "jawaban": "Mikroskop"
+  },
+  {
+    "index": 79,
+    "soal": "Apa nama hewan laut yang memiliki delapan lengan?",
+    "jawaban": "Gurita"
+  },
+  {
+    "index": 80,
+    "soal": "Siapa penemu lampu pijar?",
+    "jawaban": "Thomas Alva Edison"
+  },
+  {
+    "index": 81,
+    "soal": "Berapa jumlah planet dalam tata surya kita?",
+    "jawaban": "8"
+  },
+  {
+    "index": 82,
+    "soal": "Apa nama sungai terpanjang di Indonesia?",
+    "jawaban": "Sungai Kapuas"
+  },
+  {
+    "index": 83,
+    "soal": "Siapa pahlawan nasional yang dikenal sebagai Panglima Besar dalam perang melawan penjajah Belanda?",
+    "jawaban": "Jenderal Sudirman"
+  },
+  {
+    "index": 84,
+    "soal": "Apa nama negara tetangga Indonesia yang terletak di sebelah barat?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "index": 85,
+    "soal": "Apa nama negara yang ibukotanya adalah Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "index": 86,
+    "soal": "Apa nama lembaga internasional yang berfungsi menjaga perdamaian dunia?",
+    "jawaban": "Perserikatan Bangsa-Bangsa (PBB)"
+  },
+  {
+    "index": 87,
+    "soal": "Apa nama negara di Asia yang terkenal dengan kuil Angkor Wat?",
+    "jawaban": "Kamboja"
+  },
+  {
+    "index": 88,
+    "soal": "Siapa yang dikenal sebagai pelopor teori evolusi?",
+    "jawaban": "Charles Darwin"
+  },
+  {
+    "index": 89,
+    "soal": "Apa yang dimaksud dengan 'demokrasi'?",
+    "jawaban": "Sistem pemerintahan di mana rakyat memiliki kekuasaan untuk memilih pemimpinnya"
+  },
+  {
+    "index": 90,
+    "soal": "Apa nama gunung tertinggi di Pulau Jawa?",
+    "jawaban": "Gunung Semeru"
+  },
+  {
+    "index": 91,
+    "soal": "Apa nama peristiwa perubahan musim di Indonesia yang disebabkan oleh pergerakan angin?",
+    "jawaban": "Musim monsun"
+  },
+  {
+    "index": 92,
+    "soal": "Siapa penulis novel 'Laskar Pelangi'?",
+    "jawaban": "Andrea Hirata"
+  },
+  {
+    "index": 93,
+    "soal": "Berapa jumlah warna pada pelangi?",
+    "jawaban": "7"
+  },
+  {
+    "index": 94,
+    "soal": "Siapa penulis novel terkenal 'Romeo dan Juliet'?",
+    "jawaban": "William Shakespeare"
+  },
+  {
+    "index": 95,
+    "soal": "Sebutkan rumus kimia dari air!",
+    "jawaban": "H2O"
+  },
+  {
+    "index": 96,
+    "soal": "Apa alat ukur yang digunakan untuk mengukur panjang?",
+    "jawaban": "Penggaris"
+  },
+  {
+    "index": 97,
+    "soal": "Satuan waktu terkecil adalah?",
+    "jawaban": "Detik"
+  },
+  {
+    "index": 98,
+    "soal": "Apa nama zat cair yang dibutuhkan manusia untuk bertahan hidup?",
+    "jawaban": "Air"
+  },
+  {
+    "index": 99,
+    "soal": "Apa nama bangunan yang digunakan sebagai tempat beribadah umat Islam?",
+    "jawaban": "Masjid"
+  },
+  {
+    "index": 100,
+    "soal": "Sebutkan tiga cabang olahraga dalam Olimpiade!",
+    "jawaban": "Sepak bola, renang, atletik"
+  }
+]
