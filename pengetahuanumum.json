@@ -1,4 +1,4 @@
-[
+ [
   {
     "index": 0,
     "soal": "Planet apa yang ketiga dari matahari dan merupakan tempat tinggal manusia?",
@@ -11,7 +11,7 @@
   },
   {
     "index": 2,
-    "soal": "Apa bahasa yang paling banyak digunakan di dunia dan berasal dari negara dengan populasi terbesar?",
+    "soal": "Apa bahasa yang paling banyak digunakan di dunia dan berasal dari negara dengan populasi terbesar No.2?",
     "jawaban": "Mandarin"
   },
   {
@@ -51,8 +51,8 @@
   },
   {
     "index": 10,
-    "soal": "Siapa penulis novel terkenal 'Harry Potter'?",
-    "jawaban": "J.K. Rowling"
+    "soal": "Bambu Runcing adalah senjata tradisional dari negara?",
+    "jawaban": "Indonesia"
   },
   {
     "index": 11,
@@ -76,8 +76,8 @@
   },
   {
     "index": 15,
-    "soal": "Apa ibu kota dari negara Italia?",
-    "jawaban": "Roma"
+    "soal": "Apa ibu kota dari negara Peru?",
+    "jawaban": "Lima"
   },
   {
     "index": 16,
@@ -96,8 +96,8 @@
   },
   {
     "index": 19,
-    "soal": "Siapa presiden pertama Amerika Serikat?",
-    "jawaban": "George Washington"
+    "soal": "Siapa presiden Amerika Serikat saat ini?",
+    "jawaban": "Joe Biden"
   },
   {
     "index": 20,
@@ -126,8 +126,8 @@
   },
   {
     "index": 25,
-    "soal": "Apa nama alat yang digunakan untuk mengukur tekanan udara?",
-    "jawaban": "Barometer"
+    "soal": "Kimbab berasal dari negara?",
+    "jawaban": "Korea"
   },
   {
     "index": 26,
@@ -167,7 +167,7 @@
   {
     "index": 33,
     "soal": "Apa negara dengan populasi terbesar di dunia?",
-    "jawaban": "Cina"
+    "jawaban": "India"
   },
   {
     "index": 34,
@@ -232,7 +232,7 @@
   {
     "index": 46,
     "soal": "Siapa yang dikenal sebagai penemu lampu pijar?",
-    "jawaban": "Thomas Edison"
+    "jawaban": "Thomas Alva Edison"
   },
   {
     "index": 47,
@@ -246,8 +246,8 @@
   },
   {
     "index": 49,
-    "soal": "Siapa penulis novel terkenal 'Don Quixote'?",
-    "jawaban": "Miguel de Cervantes"
+    "soal": "Negara terkecil di dunia?",
+    "jawaban": "Vatikan"
   },
   {
     "index": 50,
@@ -258,9 +258,6 @@
     "index": 51,
     "soal": "Siapa yang disebut sebagai Bapak Pendidikan Indonesia?",
     "jawaban": "Ki Hajar Dewantara"
-  },
-      "soal": "Apa nama alat untuk mengukur massa benda?",
-    "jawaban": "Timbangan"
   },
   {
     "index": 52,
