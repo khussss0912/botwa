@@ -259,6 +259,9 @@
     "soal": "Siapa yang disebut sebagai Bapak Pendidikan Indonesia?",
     "jawaban": "Ki Hajar Dewantara"
   },
+      "soal": "Apa nama alat untuk mengukur massa benda?",
+    "jawaban": "Timbangan"
+  },
   {
     "index": 52,
     "soal": "Apa ibu kota dari negara Indonesia?",
@@ -266,118 +269,118 @@
   },
   {
     "index": 53,
-    "soal": "Sebutkan tiga negara yang ada di Asia Tenggara!",
-    "jawaban": "Indonesia, Malaysia, Thailand"
-  },
-  {
-    "index": 54,
     "soal": "Berapa jumlah provinsi di Indonesia?",
     "jawaban": "38"
   },
   {
+    "index": 54,
+    "soal": "Apa lambang negara Indonesia?",
+    "jawaban": "Garuda"
+  },
+  {
     "index": 55,
-    "soal": "Siapa presiden pertama Republik Indonesia?",
-    "jawaban": "Ir. Soekarno"
+    "soal": "Apa alat yang digunakan untuk mengukur waktu?",
+    "jawaban": "Jam"
   },
   {
     "index": 56,
-    "soal": "Apa lambang negara Indonesia?",
-    "jawaban": "Garuda Pancasila"
+    "soal": "Apa yang digunakan untuk mengukur suhu tubuh?",
+    "jawaban": "Termometer"
   },
   {
     "index": 57,
-    "soal": "Siapa pahlawan wanita yang memperjuangkan emansipasi di Indonesia?",
-    "jawaban": "R.A. Kartini"
-  },
-  {
-    "index": 58,
     "soal": "Sebutkan alat musik tradisional dari Jawa Barat!",
     "jawaban": "Angklung"
   },
   {
-    "index": 59,
-    "soal": "Apa ibukota dari Provinsi Jawa Timur?",
+    "index": 58,
+    "soal": "Apa ibu kota dari Provinsi Jawa Timur?",
     "jawaban": "Surabaya"
   },
   {
-    "index": 60,
+    "index": 59,
     "soal": "Gunung tertinggi di Indonesia terletak di Papua, apa nama gunung tersebut?",
-    "jawaban": "Puncak Jaya"
+    "jawaban": "Jaya Wijaya"
   },
   {
-    "index": 61,
-    "soal": "Apa nama presiden Amerika Serikat yang terkenal dengan pidato 'I Have a Dream' tentang kesetaraan hak?",
-    "jawaban": "Martin Luther King Jr."
-  },
-  {
-    "index": 62,
+    "index": 60,
     "soal": "Apa zat kimia yang memberikan warna hijau pada daun?",
     "jawaban": "Klorofil"
   },
   {
-    "index": 63,
+    "index": 61,
     "soal": "Apa nama pulau terbesar di Indonesia?",
     "jawaban": "Kalimantan"
   },
   {
-    "index": 64,
-    "soal": "Siapa yang bertanggung jawab atas proklamasi kemerdekaan Indonesia?",
-    "jawaban": "Ir. Soekarno dan Drs. Mohammad Hatta"
-  },
-  {
-    "index": 65,
+    "index": 62,
     "soal": "Apa nama ibu kota dari Provinsi Sumatera Utara?",
     "jawaban": "Medan"
   },
   {
-    "index": 66,
-    "soal": "Bagian tubuh manusia yang berfungsi untuk memompa darah ke seluruh tubuh adalah?",
+    "index": 63,
+    "soal": "Bagian tubuh manusia yang berfungsi untuk memompa darah adalah?",
     "jawaban": "Jantung"
   },
   {
+    "index": 64,
+    "soal": "Siapa artis paling tampan saat ini?",
+    "jawaban": "Reza"
+  },
+  {
+    "index": 65,
+    "soal": "Sebutkan rumus kimia dari air!",
+    "jawaban": "H2O"
+  },
+  {
+    "index": 66,
+    "soal": "Sebutan Negeri Jiran ditujukan untuk negara?",
+    "jawaban": "Malaysia"
+  },
+  {
     "index": 67,
-    "soal": "Tulang terpanjang dalam tubuh manusia adalah?",
-    "jawaban": "Tulang paha"
-  },
-  {
-    "index": 68,
-    "soal": "Apa nama sistem persendian yang memungkinkan manusia bergerak?",
-    "jawaban": "Sistem muskuloskeletal"
-  },
-  {
-    "index": 69,
-    "soal": "Teks lagu kebangsaan Indonesia Raya diciptakan oleh siapa?",
-    "jawaban": "WR Supratman"
-  },
-  {
-    "index": 70,
-    "soal": "Apa kepanjangan dari singkatan ASEAN?",
-    "jawaban": "Association of Southeast Asian Nations"
-  },
-  {
-    "index": 71,
     "soal": "Negara apa yang dikenal sebagai 'Negeri Gajah Putih'?",
     "jawaban": "Thailand"
   },
   {
-    "index": 72,
-    "soal": "Apa nama laut yang memisahkan Pulau Jawa dan Pulau Kalimantan?",
-    "jawaban": "Laut Jawa"
-  },
-  {
-    "index": 73,
+    "index": 68,
     "soal": "Berapa sisi yang dimiliki oleh segi delapan?",
     "jawaban": "8"
   },
   {
+    "index": 69,
+    "soal": "Apa nama alat untuk mengukur massa benda?",
+    "jawaban": "Timbangan"
+  },
+  {
+    "index": 70,
+    "soal": "Apa nama alat optik yang digunakan untuk melihat benda-benda kecil?",
+    "jawaban": "Mikroskop"
+  },
+  {
+    "index": 71,
+    "soal": "Apa nama hewan laut yang memiliki delapan lengan?",
+    "jawaban": "Gurita"
+  },
+  {
+    "index": 72,
+    "soal": "Apa nama alat yang digunakan untuk menghitung angka?",
+    "jawaban": "Kalkulator"
+  },
+  {
+    "index": 73,
+    "soal": "Berapa jumlah planet dalam tata surya kita?",
+    "jawaban": "8"
+  },
+  {
     "index": 74,
-    "soal": "Apa nama proses perubahan dari cair ke padat?",
-    "jawaban": "Membeku"
+    "soal": "Apa nama sungai terpanjang di Indonesia?",
+    "jawaban": "Kapuas"
   },
   {
     "index": 75,
-    "soal": "Siapa presiden Amerika Serikat saat ini?",
-    "jawaban": "Joe Biden"
+    "soal": "Apa nama negara tetangga Indonesia di sebelah barat?",
+    "jawaban": "Malaysia"
   },
   {
     "index": 76,
@@ -386,122 +389,122 @@
   },
   {
     "index": 77,
-    "soal": "Apa nama alat untuk mengukur massa benda?",
-    "jawaban": "Timbangan"
-  },
-  {
-    "index": 78,
-    "soal": "Apa nama alat optik yang digunakan untuk melihat benda-benda yang sangat kecil?",
-    "jawaban": "Mikroskop"
-  },
-  {
-    "index": 79,
-    "soal": "Apa nama hewan laut yang memiliki delapan lengan?",
-    "jawaban": "Gurita"
-  },
-  {
-    "index": 80,
-    "soal": "Siapa penemu lampu pijar?",
-    "jawaban": "Thomas Alva Edison"
-  },
-  {
-    "index": 81,
-    "soal": "Berapa jumlah planet dalam tata surya kita?",
-    "jawaban": "8"
-  },
-  {
-    "index": 82,
-    "soal": "Apa nama sungai terpanjang di Indonesia?",
-    "jawaban": "Sungai Kapuas"
-  },
-  {
-    "index": 83,
-    "soal": "Siapa pahlawan nasional yang dikenal sebagai Panglima Besar dalam perang melawan penjajah Belanda?",
-    "jawaban": "Jenderal Sudirman"
-  },
-  {
-    "index": 84,
-    "soal": "Apa nama negara tetangga Indonesia yang terletak di sebelah barat?",
-    "jawaban": "Malaysia"
-  },
-  {
-    "index": 85,
-    "soal": "Apa nama negara yang ibukotanya adalah Kuala Lumpur?",
-    "jawaban": "Malaysia"
-  },
-  {
-    "index": 86,
-    "soal": "Apa nama lembaga internasional yang berfungsi menjaga perdamaian dunia?",
-    "jawaban": "Perserikatan Bangsa-Bangsa (PBB)"
-  },
-  {
-    "index": 87,
-    "soal": "Apa nama negara di Asia yang terkenal dengan kuil Angkor Wat?",
-    "jawaban": "Kamboja"
-  },
-  {
-    "index": 88,
-    "soal": "Siapa yang dikenal sebagai pelopor teori evolusi?",
-    "jawaban": "Charles Darwin"
-  },
-  {
-    "index": 89,
-    "soal": "Apa yang dimaksud dengan 'demokrasi'?",
-    "jawaban": "Sistem pemerintahan di mana rakyat memiliki kekuasaan untuk memilih pemimpinnya"
-  },
-  {
-    "index": 90,
-    "soal": "Apa nama gunung tertinggi di Pulau Jawa?",
-    "jawaban": "Gunung Semeru"
-  },
-  {
-    "index": 91,
-    "soal": "Apa nama peristiwa perubahan musim di Indonesia yang disebabkan oleh pergerakan angin?",
-    "jawaban": "Musim monsun"
-  },
-  {
-    "index": 92,
-    "soal": "Siapa penulis novel 'Laskar Pelangi'?",
-    "jawaban": "Andrea Hirata"
-  },
-  {
-    "index": 93,
-    "soal": "Berapa jumlah warna pada pelangi?",
-    "jawaban": "7"
-  },
-  {
-    "index": 94,
-    "soal": "Siapa penulis novel terkenal 'Romeo dan Juliet'?",
-    "jawaban": "William Shakespeare"
-  },
-  {
-    "index": 95,
-    "soal": "Sebutkan rumus kimia dari air!",
-    "jawaban": "H2O"
-  },
-  {
-    "index": 96,
-    "soal": "Apa alat ukur yang digunakan untuk mengukur panjang?",
+    "soal": "Apa nama alat yang digunakan untuk mengukur panjang?",
     "jawaban": "Penggaris"
   },
   {
-    "index": 97,
+    "index": 78,
     "soal": "Satuan waktu terkecil adalah?",
     "jawaban": "Detik"
   },
   {
-    "index": 98,
-    "soal": "Apa nama zat cair yang dibutuhkan manusia untuk bertahan hidup?",
+    "index": 79,
+    "soal": "Apa nama zat cair yang dibutuhkan manusia untuk hidup?",
     "jawaban": "Air"
   },
   {
-    "index": 99,
+    "index": 80,
     "soal": "Apa nama bangunan yang digunakan sebagai tempat beribadah umat Islam?",
     "jawaban": "Masjid"
   },
   {
+    "index": 81,
+    "soal": "Apa nama negara di Asia yang terkenal dengan kuil Angkor Wat?",
+    "jawaban": "Kamboja"
+  },
+  {
+    "index": 82,
+    "soal": "Apa unsur kimia dengan simbol 'O'?",
+    "jawaban": "Oksigen"
+  },
+  {
+    "index": 83,
+    "soal": "Apa nama alat yang digunakan untuk melihat bintang di langit?",
+    "jawaban": "Teleskop"
+  },
+  {
+    "index": 84,
+    "soal": "Apa nama gunung tertinggi di Pulau Jawa?",
+    "jawaban": "Semeru"
+  },
+  {
+    "index": 85,
+    "soal": "Apa nama mata uang di negara Jepang?",
+    "jawaban": "Yen"
+  },
+  {
+    "index": 86,
+    "soal": "Berapa jumlah warna pada pelangi?",
+    "jawaban": "7"
+  },
+  {
+    "index": 87,
+    "soal": "Sebutkan nama planet terbesar dalam tata surya kita!",
+    "jawaban": "Jupiter"
+  },
+  {
+    "index": 88,
+    "soal": "Sebutkan rumus kimia dari karbon dioksida!",
+    "jawaban": "CO2"
+  },
+  {
+    "index": 89,
+    "soal": "Apa nama alat untuk mengukur suhu udara?",
+    "jawaban": "Termometer"
+  },
+  {
+    "index": 90,
+    "soal": "Apa nama zat cair yang dibutuhkan manusia untuk bertahan hidup?",
+    "jawaban": "Air"
+  },
+  {
+    "index": 91,
+    "soal": "Apa nama lembaga internasional yang menjaga perdamaian dunia?",
+    "jawaban": "PBB"
+  },
+  {
+    "index": 92,
+    "soal": "Apa cabang olahraga yang sangat populer di dunia?",
+    "jawaban": "Sepakbola"
+  },
+  {
+    "index": 93,
+    "soal": "Berapa jumlah sisi pada segi empat?",
+    "jawaban": "4"
+  },
+  {
+    "index": 94,
+    "soal": "Apa nama lautan terbesar di dunia?",
+    "jawaban": "Samudra Pasifik"
+  },
+  {
+    "index": 95,
+    "soal": "Sebutkan nama planet terdekat dari matahari!",
+    "jawaban": "Merkurius"
+  },
+  {
+    "index": 96,
+    "soal": "Sebutkan alat musik dari Indonesia yang dimainkan dengan dipukul?",
+    "jawaban": "Gamelan"
+  },
+  {
+    "index": 97,
+    "soal": "Apa nama unsur kimia dengan simbol 'Na'?",
+    "jawaban": "Natrium"
+  },
+  {
+    "index": 98,
+    "soal": "Apa nama ibukota negara India?",
+    "jawaban": "New Delhi"
+  },
+  {
+    "index": 99,
+    "soal": "Apa yang menjadi sumber energi utama di Bumi?",
+    "jawaban": "Matahari"
+  },
+  {
     "index": 100,
-    "soal": "Sebutkan tiga cabang olahraga dalam Olimpiade!",
-    "jawaban": "Sepak bola, renang, atletik"
+    "soal": "Apa nama benua yang berada di Kutub Selatan?",
+    "jawaban": "Antartika"
   }
 ]
